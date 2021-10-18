@@ -3,7 +3,7 @@
 """
 Created on Sun Oct 17 22:31:31 2021
 
-@author: seymayilmaz
+@author: emirnuriyildiz
 """
 
 """
